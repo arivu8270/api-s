@@ -1,10 +1,10 @@
 {
   "rewarded": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit": "ca-app-pub-3940256099942544/5224354917"
   },
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit": "ca-app-pub-3940256099942544/1033173712"
   },
   "rewarded_interstitial": {
